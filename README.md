@@ -1,4 +1,4 @@
-<center><b><font size=6 face="黑体">DBSCAN——基于密度的聚类算法</font></b></center>  
+# DBSCAN——基于密度的聚类算法   
 
 
 ----------
@@ -13,23 +13,57 @@
 &emsp;&emsp;对于高维数据集、密度不同的数据集的聚类结果不理想。
 
 # 作品展示
-### 可以识别大小不同的簇:
-![](DBSCAN/test5.png)  
+## 可以识别大小不同的簇:  
+聚类前：  
+![](DBSCAN/test10.png)  
+  
+聚类后：  
+![](DBSCAN/test11.png)  
+  
+## 可以识别形状不同的簇:
+聚类前：  
+![](DBSCAN/test20.png)  
+  
+聚类后：  
+![](DBSCAN/test21.png)  
+  
+## 对不同密度构成的二维数据集产生的聚类结果不理想:
+聚类前：  
+![](DBSCAN/test30.png)  
+  
+聚类后：  
+![](DBSCAN/test31.png)  
+  
 
-### 可以识别形状不同的簇:
-![](DBSCAN/test6.png)  
-
-### 对不同密度构成的二维数据集产生的聚类结果不理想:
-![](DBSCAN/test7.png)  
-
-### 其它测试:
-![](DBSCAN/test1.png)  
-
-![](DBSCAN/test2.png)  
-
-![](DBSCAN/test3.png)  
-
-![](DBSCAN/test4.png)  
+## 其它测试
+### 测试1  
+聚类前：  
+![](DBSCAN/test40.png)  
+  
+聚类后：  
+![](DBSCAN/test41.png)  
+  
+### 测试2  
+聚类前：  
+![](DBSCAN/test50.png)  
+  
+聚类后：  
+![](DBSCAN/test51.png)  
+  
+### 测试3  
+聚类前：  
+![](DBSCAN/test60.png)  
+  
+聚类后：  
+![](DBSCAN/test61.png)  
+  
+### 测试4  
+聚类前：  
+![](DBSCAN/test70.png)  
+  
+聚类后：  
+![](DBSCAN/test71.png)  
+  
 
 # 开发环境与工具
 (1)操作系统：Windows8  
